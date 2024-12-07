@@ -1,0 +1,67 @@
+.col-6 h5 {
+  color: var(--btn-color) !important;
+  font-size: 20px;
+  margin: 40px 0px 10px 0px;
+}
+.col-6 h2 {
+  color: var(--main-color) !important;
+  font-size: 50px;
+  font-weight: bold; 
+  letter-spacing: 1px;
+  word-spacing: 2px;
+  margin-top: 20px !important;
+  margin-left: 20px;
+}
+.col-6 button {
+  background-color: var(--orange-color) !important;
+  color: #fff;
+  width: 170px;
+  height: 52px;
+  border: none;
+  border-radius: 15px !important;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px !important;
+  margin-left: 40px;
+  transition: 0.3s ease;
+}
+.col-6 button:hover {
+  opacity: 0.7;
+}
+.col-6 button a {
+  color: #fff;
+  font-size: 20px;
+}
+header span{
+    display: block;
+    font-size: 150px;
+    color: gold;
+    -webkit-text-stroke:8px var(--orange-color);
+}
+header img {
+  width: 400px;
+  height: auto;
+  animation: mover 3s infinite alternate;
+}
+@keyframes mover {
+  0% {
+    transform: translateY(-20px);
+  }
+   100% {
+    transform: translateY(0px);
+  }
+}
+ .header-ee{
+    position: relative;
+    max-width: 100%;
+}
+header svg {
+    color: var(--btn-color);
+    font-size: 90px;
+    position: absolute;
+top: 0;
+left: 0;
+animation: mover 2s infinite alternate;
+}

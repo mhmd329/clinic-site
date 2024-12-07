@@ -1,0 +1,7 @@
+
+
+ export const Person=[{id:'1',name:'محمد',date :'٥مساء',img:'https://media-hbe1-1.cdn.whatsapp.net/v/t61.24694-24/456250245_834785558636050_2510076703926502357_n.jpg?ccb=11-4&oh=01_Q5AaIKyzeA4291FdlVQ845TZK4W2rB247HaS7KwShVRM2oPO&oe=6706B301&_nc_sid=5e03e0&_nc_cat=101'},
+    {id:'2',name:'احمد',date :'٥مساء',img:'https://media-hbe1-1.cdn.whatsapp.net/v/t61.24694-24/456250245_834785558636050_2510076703926502357_n.jpg?ccb=11-4&oh=01_Q5AaIKyzeA4291FdlVQ845TZK4W2rB247HaS7KwShVRM2oPO&oe=6706B301&_nc_sid=5e03e0&_nc_cat=101'},
+    {id:'3',name:'علي',date :'٥مساء',img:'https://media-hbe1-1.cdn.whatsapp.net/v/t61.24694-24/456250245_834785558636050_2510076703926502357_n.jpg?ccb=11-4&oh=01_Q5AaIKyzeA4291FdlVQ845TZK4W2rB247HaS7KwShVRM2oPO&oe=6706B301&_nc_sid=5e03e0&_nc_cat=101'},
+    {id:'4',name:'اياد',date :'٥مساء',img:'https://media-hbe1-1.cdn.whatsapp.net/v/t61.24694-24/456250245_834785558636050_2510076703926502357_n.jpg?ccb=11-4&oh=01_Q5AaIKyzeA4291FdlVQ845TZK4W2rB247HaS7KwShVRM2oPO&oe=6706B301&_nc_sid=5e03e0&_nc_cat=101'},
+    {id:'5',name:'ميحا',date :'٥مساء',img:'https://media-hbe1-1.cdn.whatsapp.net/v/t61.24694-24/456250245_834785558636050_2510076703926502357_n.jpg?ccb=11-4&oh=01_Q5AaIKyzeA4291FdlVQ845TZK4W2rB247HaS7KwShVRM2oPO&oe=6706B301&_nc_sid=5e03e0&_nc_cat=101'}]
